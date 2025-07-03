@@ -6,14 +6,14 @@ class rectangle implements drawable
 {
 public void draw()
 {
-System.out.println("rectangle");
+System.out.println("rectangle implements drawable");
 }
 }
 class circle implements drawable
 {
 public void draw()
 {
-System.out.println("circle");
+System.out.println("circle implements drawable");
 }
 }
 class name
